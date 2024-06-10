@@ -28,11 +28,3 @@ This project demonstrates the use of advanced NLP techniques to process and anal
 
 - Python 3.x
 - Required Python packages (listed in `requirements.txt`)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   https://github.com/ChellaVigneshKP/Data-Analysis-using-LLM.git
-   cd Data-Analysis-using-LLM
